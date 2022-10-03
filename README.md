@@ -25,9 +25,9 @@
 
 - ⚡ Fun fact **I think W3Schools is my workmate**
 
-<!-- ### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --> -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 
@@ -49,6 +49,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilsayshello&show_icons=true&locale=en&layout=compact" alt="sushilsayshello" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushilsayshello&show_icons=true&locale=en" alt="sushilsayshello" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushilsayshello&show_icons=true&locale=en" alt="sushilsayshello" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushilsayshello&" alt="sushilsayshello" /></p>
