@@ -3,11 +3,11 @@
 <h3 align="center">A passionate frontend developer from Sydney, Australia</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushilsayshello&label=Profile%20views&color=0e75b6&style=flat" alt="sushilsayshello" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushilsayshello&label=Profile%20views&color=0e75b6&style=flat" alt="sushilsayshello" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushilsayshello" alt="sushilsayshello" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 - 🔭 I’m currently working on [Student Resources Project.](https://github.com/sushilsayshello/StudentResourceIncDataSqlServer.git)
 
