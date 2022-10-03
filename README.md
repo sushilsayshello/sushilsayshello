@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://welcometomyportfoliowebsite.on.drv.tw/www.sushilsayshello.com/](https://welcometomyportfoliowebsite.on.drv.tw/www.sushilsayshello.com/)
 
-- 📝 I regularly write articles on [https://welcometomyportfoliowebsite.on.drv.tw/www.sushilsayshello.com/](https://welcometomyportfoliowebsite.on.drv.tw/www.sushilsayshello.com/)
+<!-- - 📝 I regularly write articles on [https://welcometomyportfoliowebsite.on.drv.tw/www.sushilsayshello.com/](https://welcometomyportfoliowebsite.on.drv.tw/www.sushilsayshello.com/) -->
 
 - 💬 Ask me about **android, ios, webapp**
 
