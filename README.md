@@ -90,26 +90,36 @@
 <!-- Fun Games Section -->
 <h3 align="left">Some Fun Games I Made:</h3>
 
+<!-- Fun Games Section -->
+<h3 align="left">Some Fun Games I Made:</h3>
+
 <!-- Janken (Rock, Paper, Scissors) Game -->
 <div align="left">
   <h4>🕹️ Janken (Rock, Paper, Scissors)</h4>
-  <iframe src="https://sushilsayshello.github.io/Janken/" width="300" height="400" frameborder="0" title="Janken Game"></iframe>
-  <p><a href="https://sushilsayshello.github.io/Janken/" target="_blank">Play in Fullscreen</a></p>
+  <a href="https://sushilsayshello.github.io/Janken/" target="_blank">
+    <img src="https://img.icons8.com/external-wanicon-flat-wanicon/64/000000/external-rock-paper-scissors-hobbies-wanicon-flat-wanicon.png" alt="Janken Game" width="64" />
+  </a>
+  <p><a href="https://sushilsayshello.github.io/Janken/" target="_blank">Play Janken (Rock, Paper, Scissors)</a></p>
 </div>
 
 <!-- Mini Project Game -->
 <div align="left">
   <h4>🎮 Mini Project</h4>
-  <iframe src="https://sushilsayshello.github.io/MiniProject/" width="300" height="400" frameborder="0" title="Mini Project Game"></iframe>
-  <p><a href="https://sushilsayshello.github.io/MiniProject/" target="_blank">Play in Fullscreen</a></p>
+  <a href="https://sushilsayshello.github.io/MiniProject/" target="_blank">
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-game-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="Mini Project" width="64" />
+  </a>
+  <p><a href="https://sushilsayshello.github.io/MiniProject/" target="_blank">Play Mini Project</a></p>
 </div>
 
 <!-- Tic Tac Toe Game -->
 <div align="left">
   <h4>🧠 Tic Tac Toe</h4>
-  <iframe src="https://sushilsayshello.github.io/TicTacToe/" width="300" height="400" frameborder="0" title="Tic Tac Toe Game"></iframe>
-  <p><a href="https://sushilsayshello.github.io/TicTacToe/" target="_blank">Play in Fullscreen</a></p>
+  <a href="https://sushilsayshello.github.io/TicTacToe/" target="_blank">
+    <img src="https://img.icons8.com/color/64/000000/tic-tac-toe.png" alt="Tic Tac Toe Game" width="64" />
+  </a>
+  <p><a href="https://sushilsayshello.github.io/TicTacToe/" target="_blank">Play Tic Tac Toe</a></p>
 </div>
+
 
 
 <!-- GitHub Stats and Streak Section -->
