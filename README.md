@@ -46,9 +46,6 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
   </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio" width="40" height="40"/>
-  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
@@ -90,13 +87,30 @@
   </a>
 </p>
 
-<!-- Games Section -->
+<!-- Fun Games Section -->
 <h3 align="left">Some Fun Games I Made:</h3>
-<p align="left">
-  - 🕹️ Play **Janken (Rock, Paper, Scissors)**: [Try it here](https://sushilsayshello.github.io/Janken/)  
-  - 🎮 Play **Mini Project**: [Try it here](https://sushilsayshello.github.io/MiniProject/)  
-  - 🧠 Play **Tic Tac Toe**: [Try it here](https://sushilsayshello.github.io/TicTacToe/)
-</p>
+
+<!-- Janken (Rock, Paper, Scissors) Game -->
+<div align="left">
+  <h4>🕹️ Janken (Rock, Paper, Scissors)</h4>
+  <iframe src="https://sushilsayshello.github.io/Janken/" width="300" height="400" frameborder="0" title="Janken Game"></iframe>
+  <p><a href="https://sushilsayshello.github.io/Janken/" target="_blank">Play in Fullscreen</a></p>
+</div>
+
+<!-- Mini Project Game -->
+<div align="left">
+  <h4>🎮 Mini Project</h4>
+  <iframe src="https://sushilsayshello.github.io/MiniProject/" width="300" height="400" frameborder="0" title="Mini Project Game"></iframe>
+  <p><a href="https://sushilsayshello.github.io/MiniProject/" target="_blank">Play in Fullscreen</a></p>
+</div>
+
+<!-- Tic Tac Toe Game -->
+<div align="left">
+  <h4>🧠 Tic Tac Toe</h4>
+  <iframe src="https://sushilsayshello.github.io/TicTacToe/" width="300" height="400" frameborder="0" title="Tic Tac Toe Game"></iframe>
+  <p><a href="https://sushilsayshello.github.io/TicTacToe/" target="_blank">Play in Fullscreen</a></p>
+</div>
+
 
 <!-- GitHub Stats and Streak Section -->
 <h3 align="left">My GitHub Stats:</h3>
