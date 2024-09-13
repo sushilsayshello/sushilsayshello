@@ -97,7 +97,7 @@
 <div align="left">
   <h4>🕹️ Janken (Rock, Paper, Scissors)</h4>
   <a href="https://sushilsayshello.github.io/Janken/" target="_blank">
-    <img src="https://img.icons8.com/external-wanicon-flat-wanicon/64/000000/external-rock-paper-scissors-hobbies-wanicon-flat-wanicon.png" alt="Janken Game" width="64" />
+    <img src="https://as1.ftcdn.net/v2/jpg/01/69/22/14/1000_F_169221496_jAuKBLnz92vjx5z9Qa8Q0EplCF49leVK.jpg" alt="Janken Game" width="64" />
   </a>
   <p><a href="https://sushilsayshello.github.io/Janken/" target="_blank">Play Janken (Rock, Paper, Scissors)</a></p>
 </div>
@@ -106,7 +106,7 @@
 <div align="left">
   <h4>🎮 Mini Project</h4>
   <a href="https://sushilsayshello.github.io/MiniProject/" target="_blank">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-game-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="Mini Project" width="64" />
+    <img src="https://cdn-icons-png.flaticon.com/512/8654/8654246.png" alt="Mini Project" width="64" />
   </a>
   <p><a href="https://sushilsayshello.github.io/MiniProject/" target="_blank">Play Mini Project</a></p>
 </div>
@@ -115,7 +115,7 @@
 <div align="left">
   <h4>🧠 Tic Tac Toe</h4>
   <a href="https://sushilsayshello.github.io/TicTacToe/" target="_blank">
-    <img src="https://img.icons8.com/color/64/000000/tic-tac-toe.png" alt="Tic Tac Toe Game" width="64" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJd6tIrqyz0C3Quc9ohvlqK6DhvTXO2gJKQA&s" alt="Tic Tac Toe Game" width="64" />
   </a>
   <p><a href="https://sushilsayshello.github.io/TicTacToe/" target="_blank">Play Tic Tac Toe</a></p>
 </div>
