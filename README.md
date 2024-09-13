@@ -124,8 +124,23 @@
 
 <!-- GitHub Stats and Streak Section -->
 <h3 align="left">My GitHub Stats:</h3>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilsayshello&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br/>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sushilsayshello" alt="GitHub Streak" />
-</p>
+<div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap;">
+  
+  <!-- GitHub Top Languages Stats -->
+  <div style="margin: 10px;">
+    <h4>Top Languages</h4>
+    <a href="https://github.com/sushilsayshello">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilsayshello&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);" />
+    </a>
+  </div>
+  
+  <!-- GitHub Streak Stats -->
+  <div style="margin: 10px;">
+    <h4>GitHub Streak</h4>
+    <a href="https://github.com/sushilsayshello">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushilsayshello" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);" />
+    </a>
+  </div>
+
+</div>
+
