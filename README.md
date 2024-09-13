@@ -87,8 +87,6 @@
   </a>
 </p>
 
-<!-- Fun Games Section -->
-<h3 align="left">Some Fun Games I Made:</h3>
 
 <!-- Fun Games Section -->
 <h3 align="left">Some Fun Games I Made:</h3>
