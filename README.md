@@ -1,188 +1,79 @@
-# Hi 👋, I'm Sushil Shakya
+# Sushil Shakya
 
-### Polymath • AI/ML Researcher • Cyber Security • Developer • Data Analyst • Real Estate Tech
+**IT Applications Support | Cyber Security | Data & Automation**
 
-<p align="center">
-  <img src="https://indoanalytica.com/static/images/bannerr.gif" alt="Banner"/>
-</p>
-
----
-
-## 🚀 About Me
-
-```yaml
-Name: Sushil Shakya
-Location: Australia
-
-Education:
-  - Bachelor of Information Technology
-  - Victoria University
-
-Specializations:
-  - Artificial Intelligence
-  - Machine Learning
-  - Cyber Security
-  - Data Analytics
-  - Cloud & Infrastructure
-  - Real Estate Technology
-```
-
-- 🎓 Bachelor of Information Technology — Victoria University  
-- 🤖 AI/ML & Cyber Security Researcher  
-- 📊 Data Analyst focused on predictive intelligence  
-- 🔐 Passionate about SOC, GRC, IAM & Zero Trust  
-- ☁️ Exploring Cloud, Infrastructure & Automation  
-- 🏢 Interested in innovation within Real Estate Technology  
-- 📫 Reach me at: **sushilsayshello@gmail.com**
+Sydney, NSW | +61 401 851 971 | sushilsayshello@gmail.com  
+[GitHub](https://github.com/sushilsayshello) · [LinkedIn](https://www.linkedin.com/in/sushilsayshello/) · [Google Scholar](https://scholar.google.com/citations?user=k5v9gY8AAAAJ)
 
 ---
 
-# 🌐 Website
+## Summary
 
-## 🏠 IT Accommodation Platform
-
-🔗 https://sushilsayshello.github.io/IT_ACCOM/
+IT professional with 4+ years across **application support, cybersecurity operations, and data systems**. I fix tech problems, automate workflows, and turn messy data into clean reports. Currently supporting student accommodation platforms while building AI/ML and security projects on the side.
 
 ---
 
-# 🏆 Achievements
+## Tech Stack
 
-- 🥇 GovHack 2022 NSW Winner  
-- 📚 Published AI & Cyber Security Researcher  
-- 🔐 TryHackMe & HackTheBox Enthusiast  
-- 🧪 SecEdu CTF Competitor  
-- 🎓 Student Representative — Victoria University  
-
----
-
-# 📚 Publications & Research
-
-- 📄 AI-Based DDoS Detection for IoT Networks  
-- 📄 Zero Trust AI/ML Security Framework Research  
-- 📄 Predictive Analytics & Intelligent Threat Detection  
+| **Support & ITSM** | Zendesk, StarRez, NetSuite, ITIL, SLA management |
+| **Data & Reporting** | SQL, Power BI, Excel, Python (Pandas, NumPy, Matplotlib) |
+| **Automation** | Power Automate, workflow optimization, API integrations |
+| **Security** | SOC L1–L2, IAM, vulnerability assessment, risk analysis |
+| **Cloud** | AWS, Azure, Google Cloud basics, Docker, Kubernetes |
+| **Dev** | Python, JavaScript, React, Node.js, C#, PHP |
+| **CRM & Ops** | Salesforce, SharePoint, Asana, SilverStripe CMS |
 
 ---
 
-# 💻 Tech Stack
+## Experience
 
-<p align="left">
+**IT Applications Support** — UniLodge, USyd Village, WSU Villages  
+*2022 – 2024*  
+- L1/L2 support for resident management systems (StarRez, Zendesk, NetSuite)  
+- Built Power BI dashboards and SQL reports for operations  
+- Automated workflows with Power Automate  
+- Managed incident triage, RCA, and stakeholder comms  
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+**Cyber Security Analyst (Virtual)** — TCS / Forage  
+- Risk assessments, IAM reviews, vulnerability mapping  
+- Executive security reports and remediation plans  
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+**Lead Instructor** — Code Camp  
+*2022 – 2025*  
+- Taught Java, JavaScript, game dev to 500+ students  
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45"/>
-
-</p>
+**IT Support Officer** — M-Power Accommodation  
+*2019 – 2021*  
+- Built internal apps, deployed ML models, cloud database migration  
 
 ---
 
-# 🚀 Featured Projects
+## Projects
 
-## 🛡️ SAN Shield
-
-AI-powered cybersecurity & risk intelligence platform.
-
-🔗 https://san-shield.glitch.me
-
----
-
-## 🏠 IT Accommodation
-
-Technology-driven accommodation & property platform.
-
-🔗 https://sushilsayshello.github.io/IT_ACCOM/
+| Project | What It Does | Link |
+|---------|-------------|------|
+| **SAN Shield** | AI cybersecurity risk scanner | [san-shield.glitch.me](https://san-shield.glitch.me) |
+| **IT Accommodation** | Property tech platform | [sushilsayshello.github.io/IT_ACCOM](https://sushilsayshello.github.io/IT_ACCOM/) |
+| **AI Chatbot** | NLP customer support bot | [CampusMate](https://sushilsayshello.github.io/CampusMate/) |
+| **Research** | AI/ML security & predictive analytics | [arXiv](https://arxiv.org/abs/2411.05890) |
 
 ---
 
-## 📊 Occupancy Forecasting System
+## Wins
 
-Machine learning-based predictive analytics solution.
-
----
-
-# 🔗 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/sushilsayshello" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
-  width="40" height="40"/>
-</a>
-
-<a href="https://linkedin.com/in/sushilsayshello" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-  width="40" height="40"/>
-</a>
-
-<a href="https://scholar.google.com/citations?user=k5v9gY8AAAAJ"
-target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2702/2702134.png"
-  width="40" height="40"/>
-</a>
-
-<a href="https://sushilsayshello.github.io/IT_ACCOM/"
-target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png"
-  width="40" height="40"/>
-</a>
-
-</p>
+- 🥇 GovHack 2022 NSW Winner — Mobile + Web
+- 🥇 VU Hackathon 2024 Winner
+- 📚 Published AI/ML + Cybersecurity researcher
+- 🎓 BIT — Victoria University (6.4/7)
 
 ---
 
-# 📊 GitHub Stats
+## Certs
 
-<p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=sushilsayshello&show_icons=true&theme=tokyonight"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushilsayshello&layout=compact&theme=tokyonight"
-/>
-
-<img
-height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=sushilsayshello&theme=tokyonight"
-/>
-
-</p>
+- NSW Assistant Real Estate Agent (95% complete)
+- First Aid / CPR / AED
+- RSA · WWCC · National Police Check
 
 ---
 
-# ⚡ Philosophy
-
-```txt
-Technology + Intelligence + Security + Innovation
-can solve real-world problems at scale.
-```
-
----
-
-<p align="center">
-
-<img
-src="https://komarev.com/ghpvc/?username=sushilsayshello&label=Profile%20Views&color=0e75b6&style=flat"
-/>
-
-</p>
+&gt; *"I fix systems, automate workflows, and secure data — usually before coffee."*
