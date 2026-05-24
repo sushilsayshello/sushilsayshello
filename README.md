@@ -1,79 +1,199 @@
-# Sushil Shakya
+# Hi 👋, I'm Sushil Shakya
 
-**IT Applications Support | Cyber Security | Data & Automation**
+### IT Applications Support • Cyber Security • Data & Automation • AI/ML
 
-Sydney, NSW | +61 401 851 971 | sushilsayshello@gmail.com  
-[GitHub](https://github.com/sushilsayshello) · [LinkedIn](https://www.linkedin.com/in/sushilsayshello/) · [Google Scholar](https://scholar.google.com/citations?user=k5v9gY8AAAAJ)
-
----
-
-## Summary
-
-IT professional with 4+ years across **application support, cybersecurity operations, and data systems**. I fix tech problems, automate workflows, and turn messy data into clean reports. Currently supporting student accommodation platforms while building AI/ML and security projects on the side.
+<p align="center">
+  <img src="https://kimi-web-img.moonshot.cn/img/static.vecteezy.com/e9d6b78db140d2167e584d06648f052e106e9f72.jpg" width="100%" alt="Tech Banner"/>
+</p>
 
 ---
 
-## Tech Stack
+# 🚀 About Me
 
-| **Support & ITSM** | Zendesk, StarRez, NetSuite, ITIL, SLA management |
-| **Data & Reporting** | SQL, Power BI, Excel, Python (Pandas, NumPy, Matplotlib) |
-| **Automation** | Power Automate, workflow optimization, API integrations |
-| **Security** | SOC L1–L2, IAM, vulnerability assessment, risk analysis |
-| **Cloud** | AWS, Azure, Google Cloud basics, Docker, Kubernetes |
-| **Dev** | Python, JavaScript, React, Node.js, C#, PHP |
-| **CRM & Ops** | Salesforce, SharePoint, Asana, SilverStripe CMS |
+```yaml
+Name: Sushil Shakya
+Location: Sydney, NSW, Australia
 
----
+Education:
+  - Bachelor of Information Technology — Victoria University (6.4/7)
+  - Diploma of Information Technology — UTS College (6.3/7)
 
-## Experience
+Specializations:
+  - IT Applications Support & ITSM
+  - Cyber Security (SOC L1/L2, IAM, GRC)
+  - Data Analytics & Automation
+  - AI & Machine Learning
+  - Cloud & Infrastructure
+  - Real Estate Technology
+```
 
-**IT Applications Support** — UniLodge, USyd Village, WSU Villages  
-*2022 – 2024*  
-- L1/L2 support for resident management systems (StarRez, Zendesk, NetSuite)  
-- Built Power BI dashboards and SQL reports for operations  
-- Automated workflows with Power Automate  
-- Managed incident triage, RCA, and stakeholder comms  
-
-**Cyber Security Analyst (Virtual)** — TCS / Forage  
-- Risk assessments, IAM reviews, vulnerability mapping  
-- Executive security reports and remediation plans  
-
-**Lead Instructor** — Code Camp  
-*2022 – 2025*  
-- Taught Java, JavaScript, game dev to 500+ students  
-
-**IT Support Officer** — M-Power Accommodation  
-*2019 – 2021*  
-- Built internal apps, deployed ML models, cloud database migration  
+- 🎓 Bachelor of Information Technology — Victoria University  
+- 🎓 Diploma of Information Technology — UTS College  
+- 🤖 AI/ML & Cyber Security Researcher  
+- 📊 Data Analyst focused on predictive intelligence  
+- 🔐 Passionate about SOC, GRC, IAM & Zero Trust  
+- ☁️ Exploring Cloud, Infrastructure & Automation  
+- 🏢 Interested in innovation within Real Estate Technology  
+- 📫 Reach me at: **sushilsayshello@gmail.com**
 
 ---
 
-## Projects
+# 🌐 Website
 
-| Project | What It Does | Link |
-|---------|-------------|------|
-| **SAN Shield** | AI cybersecurity risk scanner | [san-shield.glitch.me](https://san-shield.glitch.me) |
-| **IT Accommodation** | Property tech platform | [sushilsayshello.github.io/IT_ACCOM](https://sushilsayshello.github.io/IT_ACCOM/) |
-| **AI Chatbot** | NLP customer support bot | [CampusMate](https://sushilsayshello.github.io/CampusMate/) |
-| **Research** | AI/ML security & predictive analytics | [arXiv](https://arxiv.org/abs/2411.05890) |
+## 🏠 IT Accommodation Platform
+
+🔗 https://sushilsayshello.github.io/IT_ACCOM/
 
 ---
 
-## Wins
+# 🏆 Achievements
 
-- 🥇 GovHack 2022 NSW Winner — Mobile + Web
-- 🥇 VU Hackathon 2024 Winner
-- 📚 Published AI/ML + Cybersecurity researcher
-- 🎓 BIT — Victoria University (6.4/7)
-
----
-
-## Certs
-
-- NSW Assistant Real Estate Agent (95% complete)
-- First Aid / CPR / AED
-- RSA · WWCC · National Police Check
+- 🥇 GovHack 2022 NSW Winner — Mobile + Web  
+- 🥇 Winner of Inaugural VU Hackathon 2024  
+- 📚 Published AI & Cyber Security Researcher  
+- 🔐 TryHackMe & HackTheBox Enthusiast  
+- 🧪 SecEdu CTF Competitor  
+- 🎓 Student Representative — Victoria University  
 
 ---
 
-&gt; *"I fix systems, automate workflows, and secure data — usually before coffee."*
+# 📚 Publications & Research
+
+## 📄 Research Publications
+
+- AI-Based DDoS Detection for IoT Networks  
+- Zero Trust AI/ML Security Framework Research  
+- Predictive Analytics & Intelligent Threat Detection  
+
+### 🔗 Research Links
+
+- https://arxiv.org/abs/2411.05890  
+- https://arxiv.org/html/2502.03614v1  
+
+---
+
+# 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ SAN Shield
+
+AI-powered cybersecurity & risk intelligence platform.
+
+🔗 https://san-shield.glitch.me
+
+---
+
+## 🏠 IT Accommodation
+
+Technology-driven accommodation & property platform.
+
+🔗 https://sushilsayshello.github.io/IT_ACCOM/
+
+---
+
+## 📊 Occupancy Forecasting System
+
+Machine learning-based predictive analytics solution.
+
+---
+
+## 🤖 AI-Powered Chatbot
+
+Developed a chatbot using Python & NLP to automate customer/student support queries.
+
+🔗 https://sushilsayshello.github.io/CampusMate/
+
+---
+
+# 🔗 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/sushilsayshello" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40"/>
+</a>
+
+<a href="https://linkedin.com/in/sushilsayshello" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"/>
+</a>
+
+<a href="https://scholar.google.com/citations?user=k5v9gY8AAAAJ" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2702/2702134.png" width="40" height="40"/>
+</a>
+
+<a href="https://sushilsayshello.github.io/IT_ACCOM/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=sushilsayshello&show_icons=true&theme=tokyonight"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushilsayshello&layout=compact&theme=tokyonight"
+/>
+
+<img
+height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=sushilsayshello&theme=tokyonight"
+/>
+
+</p>
+
+---
+
+# ⚡ Philosophy
+
+```txt
+Technology + Intelligence + Security + Innovation
+can solve real-world problems at scale.
+```
+
+---
+
+<p align="center">
+
+<img
+src="https://komarev.com/ghpvc/?username=sushilsayshello&label=Profile%20Views&color=0e75b6&style=flat"
+/>
+
+</p>
