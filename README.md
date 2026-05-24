@@ -165,10 +165,7 @@ Smart student-focused university management & engagement platform.
 
 ---
 
-### 📈 ML-Based Occupancy Forecasting & Anomaly Detection System
-Predictive analytics and machine learning solution for operational intelligence.
 
----
 
 <!-- =========================================
      FUN PROJECTS
