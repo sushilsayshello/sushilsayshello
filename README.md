@@ -174,18 +174,7 @@ Predictive analytics and machine learning solution for operational intelligence.
      FUN PROJECTS
      ========================================= -->
 
-## 🎮 Fun Projects & Games
 
-### 🕹️ Janken (Rock, Paper, Scissors)
-🔗 https://sushilsayshello.github.io/Janken/
-
-### 🧠 Tic Tac Toe
-🔗 https://sushilsayshello.github.io/TicTacToe/
-
-### 🎮 Mini Project
-🔗 https://sushilsayshello.github.io/MiniProject/
-
----
 
 <!-- =========================================
      GITHUB STATS
