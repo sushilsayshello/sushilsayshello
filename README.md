@@ -1,51 +1,188 @@
-<!-- =========================================
-     MAIN HEADER SECTION
-     ========================================= -->
+# Hi 👋, I'm Sushil Shakya
 
-<div align="center">
+### Polymath • AI/ML Researcher • Cyber Security • Developer • Data Analyst • Real Estate Tech
 
-  <img src="https://indoanalytica.com/static/images/bannerr.gif" alt="Banner">
+<p align="center">
+  <img src="https://indoanalytica.com/static/images/bannerr.gif" alt="Banner"/>
+</p>
 
-  <h1>Hi 👋, I'm Sushil Shakya</h1>
-
-  <h3>
-    Polymath • AI/ML Researcher • Cyber Security Analyst •
-    Software Developer • Data Analyst • Real Estate & Tech Enthusiast
-  </h3>
-
-</div>
-
-<!-- =========================================
-     ANIMATED GIF
-     ========================================= -->
-
-<img align="right" alt="Coding" width="400"
-src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-
-<!-- =========================================
-     ABOUT ME
-     ========================================= -->
+---
 
 ## 🚀 About Me
 
 ```yaml
 Name: Sushil Shakya
 Location: Australia
+
 Education:
   - Bachelor of Information Technology
-  - Victoria University, Australia
+  - Victoria University
 
 Specializations:
-  - Artificial Intelligence & Machine Learning
-  - Cyber Security & Threat Intelligence
-  - Data Analytics & Predictive Modeling
+  - Artificial Intelligence
+  - Machine Learning
+  - Cyber Security
+  - Data Analytics
   - Cloud & Infrastructure
-  - Software Engineering
   - Real Estate Technology
+```
 
-Current Focus:
-  - AI Security Research
-  - Intelligent Automation
-  - Predictive Analytics
-  - Zero Trust Security
-  - Smart Property Solutions
+- 🎓 Bachelor of Information Technology — Victoria University  
+- 🤖 AI/ML & Cyber Security Researcher  
+- 📊 Data Analyst focused on predictive intelligence  
+- 🔐 Passionate about SOC, GRC, IAM & Zero Trust  
+- ☁️ Exploring Cloud, Infrastructure & Automation  
+- 🏢 Interested in innovation within Real Estate Technology  
+- 📫 Reach me at: **sushilsayshello@gmail.com**
+
+---
+
+# 🌐 Website
+
+## 🏠 IT Accommodation Platform
+
+🔗 https://sushilsayshello.github.io/IT_ACCOM/
+
+---
+
+# 🏆 Achievements
+
+- 🥇 GovHack 2022 NSW Winner  
+- 📚 Published AI & Cyber Security Researcher  
+- 🔐 TryHackMe & HackTheBox Enthusiast  
+- 🧪 SecEdu CTF Competitor  
+- 🎓 Student Representative — Victoria University  
+
+---
+
+# 📚 Publications & Research
+
+- 📄 AI-Based DDoS Detection for IoT Networks  
+- 📄 Zero Trust AI/ML Security Framework Research  
+- 📄 Predictive Analytics & Intelligent Threat Detection  
+
+---
+
+# 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ SAN Shield
+
+AI-powered cybersecurity & risk intelligence platform.
+
+🔗 https://san-shield.glitch.me
+
+---
+
+## 🏠 IT Accommodation
+
+Technology-driven accommodation & property platform.
+
+🔗 https://sushilsayshello.github.io/IT_ACCOM/
+
+---
+
+## 📊 Occupancy Forecasting System
+
+Machine learning-based predictive analytics solution.
+
+---
+
+# 🔗 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/sushilsayshello" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
+  width="40" height="40"/>
+</a>
+
+<a href="https://linkedin.com/in/sushilsayshello" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+  width="40" height="40"/>
+</a>
+
+<a href="https://scholar.google.com/citations?user=k5v9gY8AAAAJ"
+target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2702/2702134.png"
+  width="40" height="40"/>
+</a>
+
+<a href="https://sushilsayshello.github.io/IT_ACCOM/"
+target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png"
+  width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=sushilsayshello&show_icons=true&theme=tokyonight"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushilsayshello&layout=compact&theme=tokyonight"
+/>
+
+<img
+height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=sushilsayshello&theme=tokyonight"
+/>
+
+</p>
+
+---
+
+# ⚡ Philosophy
+
+```txt
+Technology + Intelligence + Security + Innovation
+can solve real-world problems at scale.
+```
+
+---
+
+<p align="center">
+
+<img
+src="https://komarev.com/ghpvc/?username=sushilsayshello&label=Profile%20Views&color=0e75b6&style=flat"
+/>
+
+</p>
