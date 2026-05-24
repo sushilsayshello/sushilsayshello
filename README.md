@@ -40,7 +40,6 @@ Specializations:
 
 # 🌐 Website
 
-## 🏠 IT Accommodation Platform
 
 🔗 https://sushilsayshello.github.io/IT_ACCOM/
 
@@ -49,10 +48,9 @@ Specializations:
 # 🏆 Achievements
 
 - 🥇 GovHack 2022 NSW Winner — Mobile + Web  
-- 🥇 Winner of Inaugural VU Hackathon 2024  
+- 🥇 Winner of Inaugural VU Hackathon 2024
+  
 - 📚 Published AI & Cyber Security Researcher  
-- 🔐 TryHackMe & HackTheBox Enthusiast  
-- 🧪 SecEdu CTF Competitor  
 - 🎓 Student Representative — Victoria University  
 
 ---
@@ -63,7 +61,7 @@ Specializations:
 
 - AI-Based DDoS Detection for IoT Networks  
 - Zero Trust AI/ML Security Framework Research  
-- Predictive Analytics & Intelligent Threat Detection  
+
 
 ### 🔗 Research Links
 
@@ -72,35 +70,7 @@ Specializations:
 
 ---
 
-# 💻 Tech Stack
 
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45"/>
-
-</p>
-
----
 
 # 🚀 Featured Projects
 
@@ -112,27 +82,7 @@ AI-powered cybersecurity & risk intelligence platform.
 
 ---
 
-## 🏠 IT Accommodation
 
-Technology-driven accommodation & property platform.
-
-🔗 https://sushilsayshello.github.io/IT_ACCOM/
-
----
-
-## 📊 Occupancy Forecasting System
-
-Machine learning-based predictive analytics solution.
-
----
-
-## 🤖 AI-Powered Chatbot
-
-Developed a chatbot using Python & NLP to automate customer/student support queries.
-
-🔗 https://sushilsayshello.github.io/CampusMate/
-
----
 
 # 🔗 Connect With Me
 
@@ -158,28 +108,6 @@ Developed a chatbot using Python & NLP to automate customer/student support quer
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=sushilsayshello&show_icons=true&theme=tokyonight"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushilsayshello&layout=compact&theme=tokyonight"
-/>
-
-<img
-height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=sushilsayshello&theme=tokyonight"
-/>
-
-</p>
-
----
 
 # ⚡ Philosophy
 
