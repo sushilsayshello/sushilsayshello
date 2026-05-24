@@ -9,13 +9,9 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <!-- Introduction Section -->
-- 🌱 I’m currently learning **ASP.Net Framework**  
-- 👨‍💻 All of my projects are available at [My Portfolio Website](https://welcometomyportfoliowebsite.on.drv.tw/www.sushilsayshello.com/)  
-- 💬 Ask me about **Android, iOS, WebApp development**  
+
 - 📫 Reach me at **sushilsayshello@gmail.com**  
-- 📄 Check out my experiences [Resume](https://drive.google.com/file/d/1kllKtPc9aZWLk0wEYrI2EXithjBGlX9O/view?usp=sharing)  
-- 🔗 My **GovHack Profile**: [Sushil Shakya on GovHack](https://hackerspace.govhack.org/profiles/sushil_shakya)  
-- ⚡ Fun fact: **I think W3Schools is my workmate**
+
 
 <!-- Connect with me Section -->
 <h3 align="left">Connect with me:</h3>
