@@ -24,14 +24,7 @@ Specializations:
   - Real Estate Technology
 ```
 
-- 🎓 Bachelor of Information Technology — Victoria University  
-- 🎓 Diploma of Information Technology — UTS College  
-- 🤖 AI/ML & Cyber Security Researcher  
-- 📊 Data Analyst focused on predictive intelligence  
-- 🔐 Passionate about SOC, GRC, IAM & Zero Trust  
-- ☁️ Exploring Cloud, Infrastructure & Automation  
-- 🏢 Interested in innovation within Real Estate Technology  
-- 📫 Reach me at: **sushilsayshello@gmail.com**
+📫 Reach me at: **sushilsayshello@gmail.com**
 
 ---
 
