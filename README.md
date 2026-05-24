@@ -2,9 +2,6 @@
 
 ### IT Applications Support • Cyber Security • Data & Automation • AI/ML
 
-<p align="center">
-  <img src="https://kimi-web-img.moonshot.cn/img/static.vecteezy.com/e9d6b78db140d2167e584d06648f052e106e9f72.jpg" width="100%" alt="Tech Banner"/>
-</p>
 
 ---
 
